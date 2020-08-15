@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yanjie Ze's "
+title                    : "Yanjie Ze's Home Page "
 title_separator          : "-"
 name                     : &name "Yanjie Ze"
 description              : &description "Struggling in SJTU"
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Yanjie Ze"
-  avatar           : "profile.png"
+  avatar           : "self.jpg"
   bio              : "A sophomore at Shanghai Jiaotong University, major in Mechanical Engineering, recently interested in Machine Learning."
   location         : "Shanghai, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://YanjieZe.github.io"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
