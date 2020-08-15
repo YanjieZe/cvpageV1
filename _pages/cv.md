@@ -11,11 +11,13 @@ redirect_from:
 
 Education
 ======
-* Undergraduate at Shanghai Jiaotong University, 2019.9 ~ now
+* Undergraduate at Shanghai Jiaotong University, majoring in Mechanical Engineering. $2019.9 ~ now$
+
+
 
 Research experience
 ======
-* PRP, 2020.5 ~ 2020.9
+* PRP:基于机器视觉的零件字符及编码识别方法研究, 2020.5 ~ now
   
 Skills
 ======
