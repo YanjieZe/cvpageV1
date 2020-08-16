@@ -36,7 +36,7 @@ Skills
 ======
 * Programming
   * C++ (1K+LoC)
-  * Python (3k+Loc)
+  * Python (3k+LoC)
 * Sports
   * Not bad in Basketball
   > Got 10 points in Freshman Cup (Fall 2019)
