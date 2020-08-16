@@ -23,7 +23,7 @@ I really enjoy most of the courses in SJTU, and from my perspective, what I lear
 
 * First Year GPA: 3.906 (3/174),90.000 (7/174)
 
-My first year in SJTU is filled with challenges,and I'm not satisfied with my performance in some subjects, such as MA248 and MA249 (Calculus).Therefore,I'm determined to learn from the past.
+My first year in SJTU is filled with challenges,and I'm not satisfied with my performance in some subjects.Therefore,I'm determined to learn from the past.
 
 * Got (92/100) in MA270:Linear Algebra (Fall 2019)
 * Got (95/100) in PH056:Introduction to Physics (Fall 2019)
