@@ -12,7 +12,7 @@ redirect_from:
   - I come from a town **Jianhu** in **Yancheng, Jiangsu, China**, born in 11/13/2001.
 
 - Recently doing
-  - After self-studying **Machine Learning** online course by **Andrew Ng**, I'm trying to implement some classic ML algorithms.
+  - After self-studying **Machine Learning** online course by **Andrew Ng**, I'm trying to implement some classic ML algorithms and meanwhile read **Statistical Learning Method** by **Li Hang**.
   - Self-studying **Mathematical Modeling**
   
 - Email me : 
