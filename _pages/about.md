@@ -10,3 +10,6 @@ redirect_from:
 
 - An ordinary man </br>
 I come from a town Jianhu in Yancheng, Jiangsu, China. 
+
+- email
+zeyanjie@sjtu.edu.cn
