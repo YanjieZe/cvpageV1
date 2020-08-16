@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-- An ordinary man </br>
-I come from a town **Jianhu** in **Yancheng, Jiangsu, China**, born in 11/13/2001.
+- An ordinary man
+  - I come from a town **Jianhu** in **Yancheng, Jiangsu, China**, born in 11/13/2001.
 
 - Recently doing
   - After self-studying **Machine Learning** online course by **Andrew Ng**, I'm trying to implement some classic ML algorithms.
