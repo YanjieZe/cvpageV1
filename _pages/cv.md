@@ -35,12 +35,12 @@ My first year in SJTU is filled with challenges,and I'm not satisfied with my pe
 Skills
 ======
 * Programming
-  * c++ 
-  * python
-  * matlab
+  * C++ (1K+LoC)
+  * Python (3k+Loc)
 * Sports
-  * not bad in Basketball
-
+  * Not bad in Basketball
+  > Got 10 points in Freshman Cup (Fall 2019)
+  
 Publications
 ======
   None
