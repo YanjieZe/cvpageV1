@@ -25,6 +25,7 @@ I really enjoy most of the courses in SJTU, and from my perspective, what I lear
 
 My first year in SJTU is filled with challenges,and I'm not satisfied with my performance in some subjects.Therefore,I'm determined to learn from the past.
 
+
 * Got (92/100) in MA270:Linear Algebra (Fall 2019)
 * Got (95/100) in PH056:Introduction to Physics (Fall 2019)
 * Got (92/100) in CS154:C++ Programming Language (Fall 2019)
