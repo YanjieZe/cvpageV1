@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 - An ordinary man </br>
-I come from a town Jianhu in Yancheng, Jiangsu, China. 
+I come from a town **Jianhu** in **Yancheng, Jiangsu, China**. 
 
-- email
-zeyanjie@sjtu.edu.cn
+- email </br>
+**zeyanjie@sjtu.edu.cn**
