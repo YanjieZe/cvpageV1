@@ -16,4 +16,4 @@ I come from a town **Jianhu** in **Yancheng, Jiangsu, China**, born in 11/13/200
   - Self-studying **Mathematical Modeling**
   
 - Email me 
-**zeyanjie@sjtu.edu.cn**
+  - zeyanjie@sjtu.edu.cn
