@@ -15,13 +15,13 @@ Education
 
 Research experience
 ======
-* PRP:基于机器视觉的零件字符及编码识别方法研究, Spring 2020
+* PRP:Character Recognition Based On Machine Vision, Spring 2020
 
 Academic Performance
 ======
 I really enjoy most of the courses in SJTU, and from my perspective, what I learned from these courses is more important than those scores I finnaly got.
 
-* First Year GPA: 3.906 (3/174),90.000 (7/174)
+* First Year GPA: 3.906 (top 2%),90.000 (top 4%)
 
 My first year in SJTU is filled with challenges,and I'm not satisfied with my performance in some subjects.Therefore,I'm determined to learn from the past.
 
@@ -37,7 +37,7 @@ Skills
 ======
 * Programming
   * C++ (1K+LoC)
-  * Python (3k+LoC)
+  * Python (4k+LoC)
 * Sports
   * Not bad in Basketball
   > Got 10 points in Freshman Cup (Fall 2019)
