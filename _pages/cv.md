@@ -21,7 +21,7 @@ Academic Performance
 ======
 I really enjoy most of the courses in SJTU, and from my perspective, what I learned from these courses is more important than those scores I finnaly got.
 
-* First Year GPA: 3.906 (top 2%),90.000 (top 4%)
+* First Year GPA: 90 (top 4%)
 
 My first year in SJTU is filled with challenges,and I'm not satisfied with my performance in some subjects.Therefore,I'm determined to learn from the past.
 
