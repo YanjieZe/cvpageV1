@@ -8,12 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-- An ordinary man
-  - I come from a town **Jianhu** in **Yancheng, Jiangsu, China**, born in 11/13/2001.
+- Personality
+ - Open to new things
+ - Decisive
+ - Independent
 
 - Recently doing
-  - After self-studying **Machine Learning** online course by **Andrew Ng**, I'm trying to implement some classic ML algorithms and meanwhile read **Statistical Learning Method** by **Li Hang**.
-  - Self-studying **Mathematical Modeling**
+  - Learning **Statistical Learning Method** and writing some codes
+  - Preparing **Mathematical Modeling**
+  - Searching interest and information
   
 - Email me : 
   - zeyanjie@sjtu.edu.cn
