@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            :  "zeyanjie@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -105,7 +105,7 @@ author:
   linkedin         :
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
-  soundcloud       :
+  soundcloud       :  "http://music.163.com/m/user/home?id=593815039"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
