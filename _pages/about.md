@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 - Personality
- - Open to new things
- - Decisive
- - Independent
+  - Open to new things
+  - Decisive
+  - Independent
 
 - Recently doing
   - Learning **Statistical Learning Method** and writing some codes
