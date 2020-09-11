@@ -15,7 +15,8 @@ redirect_from:
 
 - Recently doing
   - Learning **Statistical Learning Method** and writing some codes
-  - Preparing **Mathematical Modeling**
+  -  **Mathematical Modeling**
+  - **SLAM** from scratch
   - Searching interest and information
   
 - Email me : 
