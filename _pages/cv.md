@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* Undergraduate at Shanghai Jiaotong University, majoring in Mechanical Engineering. 2019.9 ~ now
+* Undergraduate at Shanghai Jiaotong University, majoring in Mechanical Engineering. 2019.9 ~ 2020.9.10
+* Undergraduate at Shanghai Jiaotong University, studying in Tsien Hsue-shen class, majoring in Mechanical Engineering. 2020.9.11 ~ now
 
 Research experience
 ======
