@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+###### latest update:2020/9/13
 - Personality
   - Open to new things
   - Decisive
@@ -21,4 +22,4 @@ redirect_from:
 - Email me : 
   - zeyanjie@sjtu.edu.cn
   
-###### latest update:2020/9/13
+
