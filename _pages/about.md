@@ -14,10 +14,9 @@ redirect_from:
   - Independent
 
 - Recently doing
-  - Learning **Statistical Learning Method** and writing some codes
-  -  **Mathematical Modeling**
-  - **SLAM** from scratch
-  - Searching interest and information
+  - **China Undergraduate Mathematical Contest in Modeling** finished
+  - Busy on courses
+  - Searching interest and **geeks**
   
 - Email me : 
   - zeyanjie@sjtu.edu.cn
