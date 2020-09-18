@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-###### latest update:2020/9/13
+###### latest update:2020/9/19
 - Personality
   - Open to new things
   - Decisive
@@ -18,6 +18,7 @@ redirect_from:
   - **China Undergraduate Mathematical Contest in Modeling** finished
   - Busy on courses
   - Searching interest and **geeks**
+  - Machine Vision
   
 - Email me : 
   - zeyanjie@sjtu.edu.cn
