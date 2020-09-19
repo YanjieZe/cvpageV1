@@ -21,6 +21,7 @@ Research experience
 Awards
 ======
 
+* the Excellent League Member of Shanghai Jiao Tong University, 2020.5
 
 Academic Performance
 ======
