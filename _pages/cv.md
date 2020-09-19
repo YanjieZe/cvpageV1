@@ -18,11 +18,16 @@ Research experience
 ======
 * PRP:Character Recognition Based On Machine Vision, Spring 2020
 
+Awards
+======
+
+
 Academic Performance
 ======
 I really enjoy most of the courses in SJTU, and from my perspective, what I learned from these courses is more important than those scores I finnaly got.
 
 * First Year GPA: 90 (top 5%)
+* First Year Comprehensive Evaluation: 91.2 (top 1%, 5/463)
 
 My first year in SJTU is filled with challenges,and I'm not satisfied with my performance in some subjects.Therefore,I'm determined to learn from the past.
 
