@@ -19,7 +19,8 @@ redirect_from:
   - Busy on courses
   - Searching interest and **geeks**
   - Machine Vision
-  
+
+- Mania for Post Rock 
 - Email me : 
   - zeyanjie@sjtu.edu.cn
   
