@@ -13,7 +13,7 @@ redirect_from:
   - Open to new things
   - Decisive
   - Independent
-  - Ambitious but powerless
+  - Ambitious but **powerless**
 
 - Recently doing
   - **China Undergraduate Mathematical Contest in Modeling** finished
