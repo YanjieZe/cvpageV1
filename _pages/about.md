@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-###### latest update:2020/9/19
+###### latest update:2020/9/26 
 - Personality
   - Open to new things
   - Decisive
   - Independent
+  - Ambitious but powerless
 
 - Recently doing
   - **China Undergraduate Mathematical Contest in Modeling** finished
@@ -22,8 +23,8 @@ redirect_from:
   - SJTU Robomaster Team's **Vision** Department
   
 - Mania for Post Rock and Wangwen
+
 - Email me : 
   - zeyanjie@sjtu.edu.cn
-  
 
 
