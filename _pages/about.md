@@ -17,10 +17,11 @@ redirect_from:
 - Recently doing
   - **China Undergraduate Mathematical Contest in Modeling** finished
   - Busy on courses
-  - Searching interest and **geeks**
+  - Searching interest
   - Machine Vision
-
-- Mania for Post Rock 
+  - SJTU Robomaster Team's **Vision** Department
+  
+- Mania for Post Rock and Wangwen
 - Email me : 
   - zeyanjie@sjtu.edu.cn
   
