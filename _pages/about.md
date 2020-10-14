@@ -19,7 +19,6 @@ redirect_from:
   - **China Undergraduate Mathematical Contest in Modeling** finished
   - Busy on courses
   - Searching interest
-  - Machine Vision
   - SJTU Robomaster Team's **Vision** Department
   
 - Mania for Post Rock and Wangwen
