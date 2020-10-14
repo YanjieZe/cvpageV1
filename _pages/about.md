@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-###### latest update:2020/10/2 version:1.0.0 
+###### latest update:2020/10/14 version:2.0.1 
 - Personality
   - Open to new things
   - Decisive
