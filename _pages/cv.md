@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* Major in **Mechanical Engineering**,Shanghai Jiaotong University,China 2019.9 ~ now
+* Major in **Mechanical Engineering**,Shanghai Jiaotong University,China 2019.9 ~ 2020.10
+* Major in **Computer Science and Engineering**, Shanghai Jiaotong University, China 2020.10 ~ now
 
 Research experience
 ======
