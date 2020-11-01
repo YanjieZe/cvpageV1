@@ -27,5 +27,3 @@ redirect_from:
 - Email me : 
   - zeyanjie@sjtu.edu.cn
 
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Qy7qCkBqTa5j6doaApz-rxjp16jVcHHRB46tH-I6VSg&cl=ffffff&w=a"></script>
