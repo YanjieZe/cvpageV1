@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-###### latest update:2020/10/23 version:3.1.1 
+###### latest update:2020/11/5 version 3.2.2
 - Personality
   - Open to new things
   - Decisive
@@ -20,7 +20,6 @@ redirect_from:
   - Busy on courses
   - Searching interest
   - SJTU Robomaster Team's **Vision** Department
-  - **SLAM**
   
 - Mania for Post Rock and Wangwen
 
