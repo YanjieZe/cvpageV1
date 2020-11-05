@@ -18,7 +18,7 @@ redirect_from:
 - Recently doing
   - **China Undergraduate Mathematical Contest in Modeling** finished
   - Busy on courses
-  - Searching interest
+  - Vision
   - SJTU Robomaster Team's **Vision** Department
   
 - Mania for Post Rock and Wangwen
