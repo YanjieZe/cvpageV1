@@ -17,11 +17,13 @@ Education
 Research experience
 ======
 * PRP:Character Recognition Based On Machine Vision, Spring 2020
+* MVIG（machine vision and intelligence group）, 2020.11 ~ now
 
 Awards
 ======
 
 * the Excellent League Member of Shanghai Jiao Tong University, 2020.5
+* “联合水务奖学金”,12000¥, 2020.10
 
 Academic Performance
 ======
